@@ -1,10 +1,8 @@
 # Hi, my name's Vinícius
 I am a **web developer** focused on **user experience** and astonishing visuals exploring __minimalism__.
-> "The simpler you make things, the more powerful they become." <br>
-> – Ken Thompson
+> "The simpler you make things, the more powerful they become." – Ken Thompson
 
-## 📚 Here's some of what I am familiar with:
-<br>
+## Here's some of what I am familiar with:
 - Languages
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +20,7 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <code>Java</code>
 </div>
-<br>
+
 - Libraries
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,7 +30,7 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <code>Bootstrap</code>
 </div>
-<br>
+
 - Databases
 <div style="display: inline_block">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -40,7 +38,7 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
   <code>MongoDB</code>
 </div>
-<br>
+
 - Tools
 <div style="display: inline_block">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -57,10 +55,9 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
 
 ---  
 
-🌱 My actual interest:
+🌱 Actually interested in:
 <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><code>Vue.js</code>
 
 ---
 
- Reach me on <a href="https://www.linkedin.com/in/viniciusmachadovianna/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+Reach me on <a href="https://www.linkedin.com/in/viniciusmachadovianna/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
