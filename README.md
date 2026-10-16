@@ -65,9 +65,6 @@ I'm always looking for a best **user experience** and to provide astonishing vis
 
 🌱 My actual interest:
 <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><code>Vue.js</code>
-<img align="center" alt="Tailwind.css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"><code>Tailwind.css</code>
-
-🔭 Maybe the next madness: <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><code>C</code>
 
 ---
 
