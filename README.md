@@ -1,9 +1,9 @@
-# Hi, my name's Vinícius 🚀
-I'm always looking for a best **user experience** and to provide astonishing visuals while exploring __minimalism__.✨
+# Hi, my name's Vinícius
+I am a **web developer** focused on **user experience** and astonishing visuals exploring __minimalism__.
 > "The simpler you make things, the more powerful they become." <br>
 > – Ken Thompson
 
-## 📚 Here's some of what I've been studying and am familiar with:
+## 📚 Here's some of what I am familiar with:
 <br>
 - Languages
 <div style="display: inline_block">
