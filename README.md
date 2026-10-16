@@ -33,12 +33,6 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
   <code>Bootstrap</code>
 </div>
 <br>
-- Frameworks
-<div style="display: inline_block">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <code>Vue.js</code>
-</div>
-<br>
 - Databases
 <div style="display: inline_block">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -68,5 +62,5 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
 
 ---
 
-<a href="https://www.linkedin.com/in/viniciusmachadovianna/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- Reach me on LinkedIn, let's share experiences!
+ Reach me on <a href="https://www.linkedin.com/in/viniciusmachadovianna/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
