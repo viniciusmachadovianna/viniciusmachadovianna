@@ -2,6 +2,8 @@
 I am a **web developer** focused on **user experience** and astonishing visuals exploring __minimalism__.
 > "The simpler you make things, the more powerful they become." – Ken Thompson
 
+<a href="https://www.linkedin.com/in/viniciusmachadovianna/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 ## Here's some of what I am familiar with:
 - Languages
 <div style="display: inline_block">
@@ -53,11 +55,5 @@ I am a **web developer** focused on **user experience** and astonishing visuals 
   <code>Wordpress</code>
 </div>
 
----  
-
-🌱 Actually interested in:
+<br>Actually interested in:
 <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><code>Vue.js</code>
-
----
-
-Reach me on <a href="https://www.linkedin.com/in/viniciusmachadovianna/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
